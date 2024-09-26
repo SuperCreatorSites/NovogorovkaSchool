@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, red, purple);
+}
+.my_button1 {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: 0.3s;
+    text-shadow: black 2px 2px 4px;
+} 
+.my_button1:hover {
+    background-color: #2980b9;
+}
+h1 {
+    color: white;
+    text-shadow: black 2px 2px 4px;
+}
+.my_button2 {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: 0.3s;
+    text-shadow: black 2px 2px 4px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 200%;
+} 
